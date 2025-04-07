@@ -1,0 +1,436 @@
+{
+    "title": "mathy quiz",
+    "listOfQuestions": [
+        {
+            "question": "What is 27 + 28?",
+            "correctAnswer": 55,
+            "wrongAnswers": [
+                49,
+                61,
+                54
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 2!?",
+            "correctAnswer": 2,
+            "wrongAnswers": [
+                10,
+                5,
+                7
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 987 / 21?",
+            "correctAnswer": 47,
+            "wrongAnswers": [
+                57,
+                44,
+                54
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 34 * 17?",
+            "correctAnswer": 578,
+            "wrongAnswers": [
+                577,
+                586,
+                573
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 83 * 66?",
+            "correctAnswer": 5478,
+            "wrongAnswers": [
+                5482,
+                5483,
+                5486
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is the square root of 64!?",
+            "correctAnswer": 8,
+            "wrongAnswers": [
+                10,
+                11,
+                14
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is the square root of 36!?",
+            "correctAnswer": 6,
+            "wrongAnswers": [
+                -3,
+                14,
+                7
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 6!?",
+            "correctAnswer": 720,
+            "wrongAnswers": [
+                721,
+                713,
+                727
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 656 / 16?",
+            "correctAnswer": 41,
+            "wrongAnswers": [
+                48,
+                49,
+                43
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 40 - 80?",
+            "correctAnswer": -40,
+            "wrongAnswers": [
+                -48,
+                -34,
+                -50
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 17 - 55?",
+            "correctAnswer": -38,
+            "wrongAnswers": [
+                -37,
+                -43,
+                -33
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 23 + 6?",
+            "correctAnswer": 29,
+            "wrongAnswers": [
+                27,
+                37,
+                23
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 28 * 38?",
+            "correctAnswer": 1064,
+            "wrongAnswers": [
+                1057,
+                1069,
+                1055
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 22 - 91?",
+            "correctAnswer": -69,
+            "wrongAnswers": [
+                -78,
+                -77,
+                -74
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 48 * 44?",
+            "correctAnswer": 2112,
+            "wrongAnswers": [
+                2105,
+                2108,
+                2110
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 16 - 48?",
+            "correctAnswer": -32,
+            "wrongAnswers": [
+                -24,
+                -39,
+                -37
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 6!?",
+            "correctAnswer": 720,
+            "wrongAnswers": [
+                712,
+                714,
+                719
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 1!?",
+            "correctAnswer": 1,
+            "wrongAnswers": [
+                11,
+                4,
+                -2
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 76 + 94?",
+            "correctAnswer": 170,
+            "wrongAnswers": [
+                161,
+                164,
+                175
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is the square root of 36!?",
+            "correctAnswer": 6,
+            "wrongAnswers": [
+                9,
+                1,
+                -1
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 85 + 75?",
+            "correctAnswer": 160,
+            "wrongAnswers": [
+                154,
+                163,
+                165
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 3^6!?",
+            "correctAnswer": 729,
+            "wrongAnswers": [
+                738,
+                739,
+                727
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 19 + 18?",
+            "correctAnswer": 37,
+            "wrongAnswers": [
+                41,
+                45,
+                31
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 3^5!?",
+            "correctAnswer": 243,
+            "wrongAnswers": [
+                240,
+                244,
+                237
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 23 + 46?",
+            "correctAnswer": 69,
+            "wrongAnswers": [
+                64,
+                68,
+                76
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is the square root of 64!?",
+            "correctAnswer": 8,
+            "wrongAnswers": [
+                7,
+                14,
+                -1
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 1728 / 64?",
+            "correctAnswer": 27,
+            "wrongAnswers": [
+                34,
+                35,
+                29
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is the square root of 64!?",
+            "correctAnswer": 8,
+            "wrongAnswers": [
+                16,
+                3,
+                4
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is the square root of 144!?",
+            "correctAnswer": 12,
+            "wrongAnswers": [
+                16,
+                2,
+                22
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 91 - 55?",
+            "correctAnswer": 36,
+            "wrongAnswers": [
+                34,
+                44,
+                28
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 686 / 98?",
+            "correctAnswer": 7,
+            "wrongAnswers": [
+                16,
+                12,
+                4
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 24 + 84?",
+            "correctAnswer": 108,
+            "wrongAnswers": [
+                113,
+                98,
+                116
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 2!?",
+            "correctAnswer": 2,
+            "wrongAnswers": [
+                8,
+                -6,
+                -3
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is the square root of 144!?",
+            "correctAnswer": 12,
+            "wrongAnswers": [
+                16,
+                9,
+                2
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 2^5!?",
+            "correctAnswer": 32,
+            "wrongAnswers": [
+                27,
+                35,
+                22
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 37 * 74?",
+            "correctAnswer": 2738,
+            "wrongAnswers": [
+                2744,
+                2729,
+                2731
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 736 / 46?",
+            "correctAnswer": 16,
+            "wrongAnswers": [
+                17,
+                18,
+                11
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is the square root of 36!?",
+            "correctAnswer": 6,
+            "wrongAnswers": [
+                0,
+                1,
+                2
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 80 + 32?",
+            "correctAnswer": 112,
+            "wrongAnswers": [
+                105,
+                113,
+                103
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 4!?",
+            "correctAnswer": 24,
+            "wrongAnswers": [
+                16,
+                18,
+                27
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is the square root of 144!?",
+            "correctAnswer": 12,
+            "wrongAnswers": [
+                18,
+                14,
+                15
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 1^2!?",
+            "correctAnswer": 1,
+            "wrongAnswers": [
+                9,
+                -1,
+                -9
+            ],
+            "timeout": 15
+        },
+        {
+            "question": "What is 82 - 55?",
+            "correctAnswer": 27,
+            "wrongAnswers": [
+                24,
+                33,
+                26
+            ],
+            "timeout": 15
+        }
+    ],
+    "time given": 15
+}
