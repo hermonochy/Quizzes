@@ -31,7 +31,7 @@
     {"question": "The famous phrase 'I see dead people' is from which film?", "correctAnswer": "The Sixth Sense", "wrongAnswers": ["It Follows", "The Others", "M. Night Shyamalan's Signs"], "timeout": 15},
     {"question": "What is the profession of the main character in 'A Beautiful Mind'?", "correctAnswer": "Mathematician", "wrongAnswers": ["Economist", "Physicist", "Philosopher"], "timeout": 15},
     {"question": "Which movie features the character of Tony Stark?", "correctAnswer": "Iron Man", "wrongAnswers": ["Avengers: Endgame", "Spider-Man", "Black Panther"], "timeout": 15},
-    {"question": "In 'The Matrix', what color pill does Neo take?", "correctAnswer": "Red", "wrongAnswers": ["Blue", "Green", "Yellow"], "timeout": 15},
+    {"question": "In 'The Matrix', what colour pill does Neo take?", "correctAnswer": "Red", "wrongAnswers": ["Blue", "Green", "Yellow"], "timeout": 15},
     {"question": "Who wrote and directed 'Pulp Fiction'?", "correctAnswer": "Quentin Tarantino", "wrongAnswers": ["Martin Scorsese", "Steven Spielberg", "David Fincher"], "timeout": 15},
     {"question": "In 'Forrest Gump', what is the name of Forrest's love interest?", "correctAnswer": "Jenny", "wrongAnswers": ["Sally", "Lucy", "Ella"], "timeout": 15},
     {"question": "What toy is the main character in 'Toy Story'?", "correctAnswer": "Woody", "wrongAnswers": ["Buzz Lightyear", "Mr. Potato Head", "Slinky Dog"], "timeout": 15},

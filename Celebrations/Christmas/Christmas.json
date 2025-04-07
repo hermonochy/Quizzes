@@ -19,7 +19,7 @@
     {"question": "What is the traditional Christmas meal in the United States?", "correctAnswer": "Turkey", "wrongAnswers": ["Ham", "Beef", "Chicken"], "timeout": 15},
     {"question": "Which Christmas character is known for delivering presents on a sleigh?", "correctAnswer": "Santa Claus", "wrongAnswers": ["The Nutcracker", "Scrooge", "The Grinch"], "timeout": 15},
     {"question": "What do children hang by the fireplace for Santa to fill?", "correctAnswer": "Stockings", "wrongAnswers": ["Socks", "Gloves", "Scarves"], "timeout": 15},
-    {"question": "What color is typically associated with Christmas?", "correctAnswer": "Red", "wrongAnswers": ["Blue", "Yellow", "Green"], "timeout": 15},
+    {"question": "What colour is typically associated with Christmas?", "correctAnswer": "Red", "wrongAnswers": ["Blue", "Yellow", "Green"], "timeout": 15},
     {"question": "In which country is the tradition of lighting the Yule log most popular?", "correctAnswer": "France", "wrongAnswers": ["Germany", "Italy", "USA"], "timeout": 15},
     {"question": "What is the name of the popular ballet performed during the Christmas season?", "correctAnswer": "The Nutcracker", "wrongAnswers": ["Swan Lake", "Coppelia", "Giselle"], "timeout": 15},
     {"question": "Which Christmas decoration is made of evergreen branches and often hangs on doors?", "correctAnswer": "Wreath", "wrongAnswers": ["Garland", "Ornament", "Tree skirt"], "timeout": 15},

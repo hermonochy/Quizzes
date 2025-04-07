@@ -32,7 +32,7 @@
       "timeout": 15
     },
     {
-      "question": "What color is often associated with Halloween?",
+      "question": "What colour is often associated with Halloween?",
       "correctAnswer": "Orange",
       "wrongAnswers": ["Blue", "Red", "Green"],
       "timeout": 15

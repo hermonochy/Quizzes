@@ -30,7 +30,7 @@
     {"question": "Which wild cat is known for its unique 'hunting leap'?", "correctAnswer": "Serval", "wrongAnswers": ["Cheetah", "Lion", "Tiger"], "timeout": 15},
     {"question": "Which big cat is primarily a solitary hunter?", "correctAnswer": "Tiger", "wrongAnswers": ["Lion", "Jaguar", "Cheetah"], "timeout": 15},
     {"question": "What is the main reason for the decline of the Amur Leopard?", "correctAnswer": "Poaching and habitat loss", "wrongAnswers": ["Climate change", "Lack of food", "Competition with other species"], "timeout": 15},
-    {"question": "What is a unique feature of the Clouded Leopard?", "correctAnswer": "Large, cloud-like spots", "wrongAnswers": ["Striped coat", "Solid color", "Short tail"], "timeout": 15},
+    {"question": "What is a unique feature of the Clouded Leopard?", "correctAnswer": "Large, cloud-like spots", "wrongAnswers": ["Striped coat", "Solid colour", "Short tail"], "timeout": 15},
     {"question": "Which wild cat is known for its social structure and living in groups?", "correctAnswer": "Lion", "wrongAnswers": ["Tiger", "Cougar", "Leopard"], "timeout": 15},
     {"question": "What is the primary threat to the Iberian Lynx?", "correctAnswer": "Loss of habitat and prey", "wrongAnswers": ["Poaching", "Climate change", "Disease"], "timeout": 15},
     {"question": "Which wild cat can be found in the deserts of North America?", "correctAnswer": "Bobcat", "wrongAnswers": ["Lynx", "Ocelot", "Cougar"], "timeout": 15},

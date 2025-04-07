@@ -38,7 +38,7 @@
         "timeout": 15
       },
       {
-        "question": "What color is Mulan's dress when she first attends the matchmaker?",
+        "question": "What colour is Mulan's dress when she first attends the matchmaker?",
         "correctAnswer": "Red",
         "wrongAnswers": ["Blue", "Yellow", "Pink"],
         "timeout": 15

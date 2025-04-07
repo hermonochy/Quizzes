@@ -32,7 +32,7 @@
         "timeout": 15
       },
       {
-        "question": "What color are the eggs in 'Green Eggs and Ham'?",
+        "question": "What colour are the eggs in 'Green Eggs and Ham'?",
         "correctAnswer": "Green",
         "wrongAnswers": ["Brown", "Blue", "Yellow"],
         "timeout": 15

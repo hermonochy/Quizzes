@@ -86,7 +86,7 @@
       "timeout": 10
     },
     {
-      "question": "What color is Tintin's hair?",
+      "question": "What colour is Tintin's hair?",
       "correctAnswer": "Blonde",
       "wrongAnswers": ["Ginger", "Brown", "Black"],
       "timeout": 10
