@@ -45,11 +45,11 @@ def generate_math_question():
     
     wrong_answers = set()
     while len(wrong_answers) < 3:
-        wrong_answer = correct_answer + random.randint(-10, 10)
+        wrong_answer = str(correct_answer + random.randint(-10, 10))
         if wrong_answer != correct_answer and wrong_answer not in wrong_answers:
             wrong_answers.add(wrong_answer)
     
-    return QuizQuestion(question, correct_answer, list(wrong_answers))
+    return QuizQuestion(question, str(correct_answer), list(wrong_answers))
 
 def generate_quiz(num_questions):
     questions = []
