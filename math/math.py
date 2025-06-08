@@ -2,6 +2,10 @@ import math
 import json
 import random
 
+"""
+Program to generate math quizzes quickly and easily.
+"""
+
 class QuizQuestion:
     def __init__(self, question, correct_answer, wrong_answers, timeout=15):
         self.question = question
@@ -33,19 +37,19 @@ def generate_math_question():
         question = f"What is {smallNum1}!?"
         correct_answer = math.factorial(smallNum1)
     elif operation == '^':
-        question = f"What is {smallNum1}^{smallNum2}!?"
+        question = f"What is {smallNum1}^{smallNum2}?"
         correct_answer = smallNum1**smallNum2
     elif operation == 'root':
-        question = f"What is the square root of {(smallNum1*2)*(smallNum1*2)}!?"
+        question = f"What is the square root of {(smallNum1*2)*(smallNum1*2)}?"
         correct_answer = smallNum1 * 2
     
     wrong_answers = set()
     while len(wrong_answers) < 3:
-        wrong_answer = correct_answer + random.randint(-10, 10)
+        wrong_answer = str(correct_answer + random.randint(-10, 10))
         if wrong_answer != correct_answer and wrong_answer not in wrong_answers:
             wrong_answers.add(wrong_answer)
     
-    return QuizQuestion(question, correct_answer, list(wrong_answers))
+    return QuizQuestion(question, str(correct_answer), list(wrong_answers))
 
 def generate_quiz(num_questions):
     questions = []
@@ -64,10 +68,9 @@ def save_quiz_to_json(questions, file_path, title):
         json.dump(quiz_data, file, indent=4)
 
 if __name__ == '__main__':
-    name = input("File Name")
     title = input("Title:")
     num_questions = int(input("Number of Questions"))
     questions = generate_quiz(num_questions)
-    filepath = f'{name}.json'
+    filepath = f'{title}.json'
     save_quiz_to_json(questions, filepath, title)
     print(f"Generated a {num_questions}-question math quiz and saved to {filepath}")
